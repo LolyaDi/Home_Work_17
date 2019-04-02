@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfStarWarsCharacters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StarWarsCharacters>
+    <Name>Luke Skywalker</Name>
+    <Height>172</Height>
+    <Mass>77</Mass>
+    <HairColor>blond</HairColor>
+    <SkinColor>fair</SkinColor>
+    <EyeColor>blue</EyeColor>
+    <BirthYear>19BBY</BirthYear>
+    <Gender>male</Gender>
+    <Homeworld>https://swapi.co/api/planets/1/</Homeworld>
+    <Films>
+      <string>https://swapi.co/api/films/2/</string>
+      <string>https://swapi.co/api/films/6/</string>
+      <string>https://swapi.co/api/films/3/</string>
+      <string>https://swapi.co/api/films/1/</string>
+      <string>https://swapi.co/api/films/7/</string>
+    </Films>
+    <Species>
+      <string>https://swapi.co/api/species/1/</string>
+    </Species>
+    <Vehicles>
+      <string>https://swapi.co/api/vehicles/14/</string>
+      <string>https://swapi.co/api/vehicles/30/</string>
+    </Vehicles>
+    <Starships>
+      <string>https://swapi.co/api/starships/12/</string>
+      <string>https://swapi.co/api/starships/22/</string>
+    </Starships>
+    <Created>2014-12-09T13:50:51.644Z</Created>
+    <Edited>2014-12-20T21:17:56.891Z</Edited>
+    <Url>https://swapi.co/api/people/1/</Url>
+  </StarWarsCharacters>
+  <StarWarsCharacters>
+    <Name>Leia Organa</Name>
+    <Height>150</Height>
+    <Mass>49</Mass>
+    <HairColor>brown</HairColor>
+    <SkinColor>light</SkinColor>
+    <EyeColor>brown</EyeColor>
+    <BirthYear>19BBY</BirthYear>
+    <Gender>female</Gender>
+    <Homeworld>https://swapi.co/api/planets/2/</Homeworld>
+    <Films>
+      <string>https://swapi.co/api/films/2/</string>
+      <string>https://swapi.co/api/films/6/</string>
+      <string>https://swapi.co/api/films/3/</string>
+      <string>https://swapi.co/api/films/1/</string>
+      <string>https://swapi.co/api/films/7/</string>
+    </Films>
+    <Species>
+      <string>https://swapi.co/api/species/1/</string>
+    </Species>
+    <Vehicles>
+      <string>https://swapi.co/api/vehicles/30/</string>
+    </Vehicles>
+    <Starships />
+    <Created>2014-12-10T15:20:09.791Z</Created>
+    <Edited>2014-12-20T21:17:50.315Z</Edited>
+    <Url>https://swapi.co/api/people/5/</Url>
+  </StarWarsCharacters>
+</ArrayOfStarWarsCharacters>
